@@ -42,7 +42,7 @@ Global
 
 Menu
 - `Up/Down` + `Enter` — Navigate/confirm
-- Bottom border shows a dim “? - help” hint
+- Bottom border shows a dim “? - help” hint (this appears on main screens as well)
 
 Name Entry
 - Type to enter a name (max ~20 chars), `Enter` to confirm, `Backspace` to edit
