@@ -9,7 +9,7 @@ use crate::cards::{Card, Rank, Suit};
 use crate::game::{Game, GameEvent, GamePhase};
 
 pub fn draw(f: &mut Frame, game: &Game) {
-    let size = f.size();
+    let size = f.area();
     match game.phase {
         GamePhase::Menu => {
             draw_menu(f, size, game);
