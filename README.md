@@ -1,3 +1,6 @@
+<img width="943" height="1027" alt="image" src="https://github.com/user-attachments/assets/165878bf-f632-4ab3-92a0-15209d079381" />
+
+
 # Scoundrel (Terminal)
 
 A single‑player roguelike card game played with a standard deck — in your terminal.
